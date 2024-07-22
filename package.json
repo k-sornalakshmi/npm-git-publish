@@ -1,5 +1,5 @@
 {
-  "name": "npm-git-publish",
+  "name": "@k-sornalakshmi/npm-git-publish",
   "version": "1.0.0",
   "main": "index.js",
   "publishConfig": {
